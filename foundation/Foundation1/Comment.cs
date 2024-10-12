@@ -13,7 +13,7 @@ class Comment
 
     public void Display()
     {
-        Console.WriteLine($"Commenter Name: {_author}");
+        Console.WriteLine($"Commenter's Name: {_author}");
         Console.WriteLine($"Text: {_text}");
     }
 }
