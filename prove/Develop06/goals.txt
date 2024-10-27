@@ -1,0 +1,7 @@
+1060
+SimpleGoal:give a talk|speak in sacrament meeting|100|True
+EternalGoal:study the scriptures|study for at least 10 minutes|50|2
+ChecklistGoal:attend the temple|attend and perform any ordinance|50|3|500|4
+SimpleGoal:run a marathon|Run as a manic|150|True
+SimpleGoal:buy an air conditioner|the chipest one|90|False
+ChecklistGoal:pray often|pray at least once a day|10|7|70|1
